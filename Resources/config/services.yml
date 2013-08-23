@@ -1,0 +1,7 @@
+parameters:
+#    mesd_doctrine_extensions_ilike.example.class: MESD\DoctrineExtensions\IlikeBundle\Example
+
+services:
+#    mesd_doctrine_extensions_ilike.example:
+#        class: %mesd_doctrine_extensions_ilike.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

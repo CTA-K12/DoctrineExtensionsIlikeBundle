@@ -1,0 +1,10 @@
+{
+    "name": "mesd/doctrine-extensions-ilike-bundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "Doctrine Extensions Ilike bundle",
+    "autoload": {
+        "psr-0": { "MESD\\DoctrineExtensions\\IlikeBundle": "" }
+    },
+    "target-dir": "MESD/DoctrineExtensions/IlikeBundle"
+}
