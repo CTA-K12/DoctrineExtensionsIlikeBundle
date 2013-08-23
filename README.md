@@ -1,2 +1,2 @@
-DoctrineExtensionsILikeBundle
+DoctrineExtensionsIlikeBundle
 =============================
